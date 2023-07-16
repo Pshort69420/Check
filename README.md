@@ -1,4 +1,5 @@
-Problem Statement:- Program ADC and show analog to digital conversion. Display digital value on suitable interface().
+Problem Statement:- Programming ADC and show analog to digital conversion and displaying digital value on suitable interface().
+
 ADC programming refers to the process of configuring and utilizing an ADC (Analog-to-Digital Converter) in a microcontroller or embedded system. The programming involves setting up the ADC hardware and implementing the necessary software routines to control and utilize the ADC.
 
 The STM32F407VG microcontroller has three successive approximation type ADC modules such as ADC1, ADC2, and ADC3. These ADC modules share 16 analog input channels. This means there are a total of 16 analog input channels available for the STM32F4 discovery board.
